@@ -92,4 +92,4 @@ To update, edit `VERSION` in Makefile and rebuild.
 
 ## License
 
-MIT
+BSD-2-Clause
